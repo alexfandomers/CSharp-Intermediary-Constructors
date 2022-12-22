@@ -1,0 +1,15 @@
+C:\C#\IntermediaryConstructors\bin\Debug\net6.0\IntermediaryConstructors.exe
+C:\C#\IntermediaryConstructors\bin\Debug\net6.0\IntermediaryConstructors.deps.json
+C:\C#\IntermediaryConstructors\bin\Debug\net6.0\IntermediaryConstructors.runtimeconfig.json
+C:\C#\IntermediaryConstructors\bin\Debug\net6.0\IntermediaryConstructors.dll
+C:\C#\IntermediaryConstructors\bin\Debug\net6.0\IntermediaryConstructors.pdb
+C:\C#\IntermediaryConstructors\obj\Debug\net6.0\IntermediaryConstructors.csproj.AssemblyReference.cache
+C:\C#\IntermediaryConstructors\obj\Debug\net6.0\IntermediaryConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\IntermediaryConstructors\obj\Debug\net6.0\IntermediaryConstructors.AssemblyInfoInputs.cache
+C:\C#\IntermediaryConstructors\obj\Debug\net6.0\IntermediaryConstructors.AssemblyInfo.cs
+C:\C#\IntermediaryConstructors\obj\Debug\net6.0\IntermediaryConstructors.csproj.CoreCompileInputs.cache
+C:\C#\IntermediaryConstructors\obj\Debug\net6.0\IntermediaryConstructors.dll
+C:\C#\IntermediaryConstructors\obj\Debug\net6.0\refint\IntermediaryConstructors.dll
+C:\C#\IntermediaryConstructors\obj\Debug\net6.0\IntermediaryConstructors.pdb
+C:\C#\IntermediaryConstructors\obj\Debug\net6.0\IntermediaryConstructors.genruntimeconfig.cache
+C:\C#\IntermediaryConstructors\obj\Debug\net6.0\ref\IntermediaryConstructors.dll
